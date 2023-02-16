@@ -7,7 +7,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SRojas28/BJTpy?label=Repo%20Size)
 ![GitHub language count](https://img.shields.io/github/languages/count/SRojas28/BJTpy?label=Languages)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![License](https://img.shields.io/github/license/SRojas28/BJTpy)
 ![GitHub contributors](https://img.shields.io/github/contributors/SRojas28/BJTpy)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SRojas28/BJTpy)
 ![Made from](https://img.shields.io/badge/From-Colombia-Yellow)
