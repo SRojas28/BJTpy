@@ -13,7 +13,7 @@
 ![Made from](https://img.shields.io/badge/From-Colombia-Yellow)
 
 
-BJTpy is a project developed to design and simulate BJT amplifiers with one or more stages depending on the parameters required by the user. The software was created given the needs of the students of the Francisco de Paula Santander University. The project was presented at national conferences on behalf of SINEAVA (Advanced Electronics Research Seedbed).
+BJTpy is a project developed to design and simulate BJT amplifiers with one or more stages depending on the parameters required by the user. The software was created given the needs of the students of the Francisco de Paula Santander University. The project was presented at international conferences on behalf of SINEAVA (Advanced Electronics Research Seedbed).
 
 # Requirements
 Make sure you have these dependencies latest versions installed:
