@@ -32,7 +32,7 @@ To run the software type ``` python3 main.py ``` on the terminal.
 <img src="https://user-images.githubusercontent.com/62435332/219271604-3d2a9433-6ae3-456a-a76e-7c438470c031.PNG" width="500">
 <img src="https://user-images.githubusercontent.com/62435332/219271617-7dcfc746-fc95-4506-b7a8-f674efb4f5c6.PNG" width="350">
 <img src="https://user-images.githubusercontent.com/62435332/219271616-8dbecbbe-6941-47d9-ad4d-c28cb36f13fa.PNG" width="300">
-<img src="https://user-images.githubusercontent.com/62435332/219271619-9991267a-97a9-40db-81fd-ab412cc47fc3.PNG" width="700">
+<img src="https://user-images.githubusercontent.com/62435332/219271619-9991267a-97a9-40db-81fd-ab412cc47fc3.PNG" width="600">
 
 # Authors
 - [Paola Castro](https://github.com/C-Paola)
